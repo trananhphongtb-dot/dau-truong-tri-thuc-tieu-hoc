@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "876738191388-b4i5sgngk8ge7hc3po8vqur75eemjdqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.dautruongtrithuc.tieuhoc",
+            "certificate_hash": "0f602a734ef23ae790a6e50c7d40f471c478334f"
+          }
+        },
+        {
+          "client_id": "876738191388-c0v3455hf57isums5p0sreu0e2sdghtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.dautruongtrithuc.tieuhoc",
+            "certificate_hash": "e05efec58d45dc88596b8f1a67d81998cd0b7906"
+          }
+        },
+        {
           "client_id": "876738191388-pi8k80qg5345ndnk0bhbelttfrdhlmq6.apps.googleusercontent.com",
           "client_type": 3
         }
